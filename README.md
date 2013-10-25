@@ -1,0 +1,4 @@
+connection
+==========
+
+Tekla Structures application
