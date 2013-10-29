@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="Tekla.Structures.Model, Version=19.1.0.0, Culture=neutral, PublicKeyToken=2f04dbe497b71114, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\TeklaStructures\18.0\nt\bin\plugins\Tekla.Structures.Model.dll</HintPath>
+      <HintPath>..\..\TeklaStructures\19.0\nt\bin\plugins\Tekla.Structures.Model.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
