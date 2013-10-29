@@ -12,4 +12,4 @@ USAGE:
 2) start app from the toolbar
 3) select report template 
 4) write by (W) button
-Version 17.0 SR9
+
