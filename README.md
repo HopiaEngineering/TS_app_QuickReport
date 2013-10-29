@@ -1,10 +1,14 @@
-connection
-==========
+Quick Report app
+================
 
 Tekla Structures application
 
-Application to create checking reports quickly.
+Application to create checking reports quickly in modeling proces.
 
 A combo box is filled report templates from environment\<env>\template folder with wild char "QP_*.rpt"
 
-Master is always for the newest Tekla Structures version.
+USAGE:
+1) select object(s)
+2) start app from the toolbar
+3) select report template 
+4) write by (W) button
