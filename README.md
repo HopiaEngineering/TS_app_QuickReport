@@ -1,7 +1,7 @@
 Quick Report app
 ================
 
-Tekla Structures application
+[![CodePath](http://www.hopiaengineering.fi/newsite2013/uploads/images/portfolio/snap000374.png)](http://www.hopiaengineering.fi/newsite2013/referenssit)
 
 Application to create checking reports quickly in modeling proces.
 
